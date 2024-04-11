@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ruddy CHAM</h1>
+<h3 align="center">I am a blockchain consultant</h3>
 
-<!--
-**RuddyCHAM/RuddyCHAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddycham&label=Profile%20views&color=0e75b6&style=flat" alt="ruddycham" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Allfunding / Blocklife**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning at **Alyra School**
+
+- 👯 I’m looking to collaborate on **Blockchain's projects**
+
+- 📫 How to reach me **ruddy.cham@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ruddycham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruddycham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruddy-cham-3b5984136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruddy-cham-3b5984136" height="30" width="40" /></a>
+<a href="https://discord.gg/849783032332288031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="849783032332288031" height="30" width="40" /></a>
+</p>
