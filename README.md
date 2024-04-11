@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruddy CHAM</h1>
-<h3 align="center">I am a blockchain consultant</h3>
+<h1 align="center">Salut 👋, je suis Ruddy CHAM</h1>
+<h3 align="center">Fraichement sorti d'une formation dans l'école Blockchain ALYRA et je me lance comme consultant Blockchain pour vous accompagner dans vos projets utilisant cette technologie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddycham&label=Profile%20views&color=0e75b6&style=flat" alt="ruddycham" /> </p>
 
